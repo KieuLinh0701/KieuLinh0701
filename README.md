@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Linh 👋
 
-<!--
-**KieuLinh0701/KieuLinh0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student of **Ho Chi Minh City University of Technology and Education**, majoring in **Information Technology**, and a passionate **Software Developer** specializing in **web and mobile applications**.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
+- **Backend:** Node.js, Spring Boot, REST APIs
+- **Programming Languages:** Java, Python, C++, C#
+- **Database:** MySQL, SQL Server, Firebase
+- **Tools:** Git, GitHub, Postman, Docker, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Languages
+- Vietnamese (Native)
+- English (Intermediate)
+
+## 📫 How to Reach Me
+- Email: uynukieulinh@gmail.com
+- LinkedIn: [kieulinh](https://www.linkedin.com/in/kieulinh-072b80250)
+
+## ⚡ Fun Fact
+- I enjoy learning new tech every day 🌐
+- Coding is my life 💻❤️
