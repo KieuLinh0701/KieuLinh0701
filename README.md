@@ -15,7 +15,7 @@ I'm a student of **Ho Chi Minh City University of Technology and Education**, ma
 
 ## 📫 How to Reach Me
 - Email: uynukieulinh@gmail.com
-- LinkedIn: [kieulinh](https://www.linkedin.com/in/kieulinh-072b80250)
+- LinkedIn: [kieulinh](linkedin.com/in/linh-uy-nu-kieu-072b80250)
 
 ## ⚡ Fun Fact
 - I enjoy learning new tech every day 🌐
